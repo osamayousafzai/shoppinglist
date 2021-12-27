@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "Bread",
+    "price": 10
+  },
+  {
+    "id": 1,
+    "name": "Rice",
+    "price": 59
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "price": 15
+  },
+  {
+    "id": 3,
+    "name": "Mustard",
+    "price": 35
+  },
+  {
+    "id": 4,
+    "name": "Barbecue sauce",
+    "price": 29
+  },
+  {
+    "id": 5,
+    "name": "Salsa",
+    "price": 59
+  },
+  {
+    "id": 6,
+    "name": "Olive oil",
+    "price": 46
+  },
+  {
+    "id": 7,
+    "name": "Chicken",
+    "price": 75
+  },
+  {
+    "id": 8,
+    "name": "Turkey",
+    "price": 95
+  },
+  {
+    "id": 9,
+    "name": "Beef",
+    "price": 99
+  }
+]
